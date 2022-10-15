@@ -8,7 +8,22 @@
   color: white !important;
 }
 
+.jumbotron {
+  background-image: asset-url('typewriter.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: rgb(235, 41, 41);
+
+}
+
 #logo {
   color: red !important;
 }
+
+#home-container {
+  margin-top: 25px;
+  
+}
+
 
